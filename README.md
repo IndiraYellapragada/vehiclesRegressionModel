@@ -1,7 +1,7 @@
 
 The repository performs an analysis of used vehicle prices, aiming to build a regressive model that identifies the features that effect the price of an used car.  
-Dataset Used is found [here](../data/vehicles.csv)  
-All the prompts given to achieve the below analysis can be found [here](../UsedCars_prompt_II.ipynb).  
+Dataset Used is found [here](/data/vehicles.csv)  
+All the prompts given to achieve the below analysis can be found [here](/UsedCars_prompt_II.ipynb).  
 
 Here's a breakdown of the key steps and insights:
 
