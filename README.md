@@ -38,13 +38,14 @@ Here's a breakdown of the key steps and insights:
 
 **4. Evaluation:**
 
-The model's performance is evaluated using metrics like Mean Squared Error. The best performing models are identified.
-**5. Deployment:**
+The model's performance is evaluated using metrics like Mean Squared Error. The best performing models are identified.  
 
-Linear Reression without intercept shows that manufacturer, odometer and type of the car are most important features that determine the price.
-Ridge model shows age^2,model,state,type are the important features deciding the price of used car
-Lasso Model Shows that Odometer, odometer^2 and age are the important features that impact the price of used car
-SEquential Selection model indicates that odometer and age are the important features for price determination
+**5. Deployment:**  
+
+* Linear Reression without intercept shows that manufacturer, odometer and type of the car are most important features that determine the price.  
+* Ridge model shows age^2,model,state,type are the important features deciding the price of used car.  
+* Lasso Model Shows that Odometer, odometer^2 and age are the important features that impact the price of used car.  
+* SEquential Selection model indicates that odometer and age are the important features for price determination  
 
 
 
